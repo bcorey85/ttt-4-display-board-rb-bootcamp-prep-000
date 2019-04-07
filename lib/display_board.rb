@@ -4,4 +4,4 @@
 board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 
 def display_board(state = board)
-  console
+  puts state
