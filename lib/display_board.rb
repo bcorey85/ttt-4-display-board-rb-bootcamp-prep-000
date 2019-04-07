@@ -4,5 +4,9 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(state = board)
-  puts "${state
+  puts "#{state[0]} | #{state[1]} | #{state[2]}
+  puts
+  puts "#{state[3]
+  puts
+  
 end
