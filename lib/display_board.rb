@@ -4,5 +4,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(state = board)
-  puts state
+  puts "${state
 end
